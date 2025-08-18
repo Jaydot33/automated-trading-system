@@ -1,5 +1,7 @@
 # Jay's Automated Trading System - Professional Portfolio Project
 
+"In just three weeks, leveraging only a handful of certifications (IBM Data Science, TensorFlow, and Generative AI) and relentless determination, I independently built an institutional-grade automated trading system completely from scratch. This project is a true end-to-end demonstration of advanced Python engineering, cutting-edge machine learning, and real-world quantitative finance. Beyond technical mastery, it’s proof that with resourcefulness, rapid learning, and grit, I deliver production-ready solutions rivaling industry professionals—even when starting from nothing but core certificates and drive."
+
 ## 🚀 Project Overview
 A comprehensive, institutional-grade algorithmic trading system built from scratch in Python. This system demonstrates advanced software engineering, quantitative finance, and machine learning capabilities at a professional level.
 
